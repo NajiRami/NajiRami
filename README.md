@@ -56,8 +56,8 @@ class Naji_Al_Sindawi:
 
 <h2>📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naji-Al-Sindawi&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naji-Al-Sindawi&theme=tokyonight" width="48%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NajiRami&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NajiRami&theme=tokyonight" width="48%" alt="GitHub Streak"/>
 </div>
 
 <br>
