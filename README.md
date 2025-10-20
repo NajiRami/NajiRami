@@ -54,18 +54,7 @@ class Naji_Al_Sindawi:
 
 <hr>
 
-<h2>📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NajiRami&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NajiRami&theme=tokyonight" width="48%" alt="GitHub Streak"/>
-</div>
 
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naji-Al-Sindawi&layout=compact&theme=tokyonight" width="60%" alt="Top Languages"/>
-</div>
-
-<hr>
 
 <h2>🌍 Connect With Me</h2>
 <p>
@@ -74,7 +63,7 @@ class Naji_Al_Sindawi:
     Naji Al-Sindawi
   </a>
   <br>
-  💬 I’m open to collaborating on AI-based projects and research in Machine Learning & Computer Vision.
+  💬 I’m open to collaborating on AI-based projects and research in Machine Learning, Natural Language Processing and Computer Vision.
 </p>
 
 <hr>
