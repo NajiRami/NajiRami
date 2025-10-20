@@ -7,9 +7,7 @@
   <p>
     <a href="https://www.linkedin.com/in/najy-rami-b7b9b031a">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=Naji-Al-Sindawi&style=flat&color=blue&label=PROFILE+VIEWS" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/followers/Naji-Al-Sindawi?style=social" alt="GitHub Followers"/>
+
   </p>
 </div>
 
