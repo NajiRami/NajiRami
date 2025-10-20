@@ -1,14 +1,5 @@
-<div align="center" width="50">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
-
-
-
-
-
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/naaji-ai/naaji-ai/main/assets/ai_coding.gif" alt="AI Engineer at work" width="60%"/><br><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
   <h1>👋 Hi, I'm <strong>Naji Al-Sindawi</strong></h1>
   <h3>🧠 AI & Machine Learning Engineer | Deep Learning • NLP • Computer Vision • Recommender Systems</h3>
@@ -16,8 +7,8 @@
   <p>
     <a href="https://www.linkedin.com/in/najy-rami-b7b9b031a">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-
-  </p>
+    </a>
+ </p>
 </div>
 
 <hr>
@@ -61,9 +52,10 @@ class Naji_Al_Sindawi:
         self.goal = "Building intelligent, scalable AI systems"
 </pre>
 
+
+
+
 <hr>
-
-
 
 <h2>🌍 Connect With Me</h2>
 <p>
@@ -72,12 +64,12 @@ class Naji_Al_Sindawi:
     Naji Al-Sindawi
   </a>
   <br>
-  💬 I’m open to collaborating on AI-based projects and research in Machine Learning, Natural Language Processing and Computer Vision.
+  💬 I’m open to collaborating on AI-based projects and research in Machine Learning & Computer Vision.
 </p>
 
 <hr>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Glowing%20Star.png" width="5%" alt="Star"/><br>
+  
   <i>"Turning data into intelligence, and intelligence into impact."</i>
 </div>
