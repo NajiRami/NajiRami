@@ -2,7 +2,8 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
   <h1>👋 Hi, I'm <strong>Naji Al-Sindawi</strong></h1>
-  <h3>🧠 AI & Machine Learning Engineer | Deep Learning • NLP • Computer Vision • Recommender Systems</h3>
+  <h3>🧑‍🎓high school student
+    🧠 Interested in AI & Machine Learning Engineer | Deep Learning • NLP • Computer Vision • Recommender Systems</h3>
 
   <p>
     <a href="https://www.linkedin.com/in/najy-rami-b7b9b031a">
